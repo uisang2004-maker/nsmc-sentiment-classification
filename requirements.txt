@@ -1,0 +1,6 @@
+# Tested on Google Colab with torch 2.11.0 and transformers 5.22.0
+torch>=2.3
+transformers
+pandas
+numpy
+tqdm

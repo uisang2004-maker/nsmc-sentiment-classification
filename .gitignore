@@ -1,0 +1,12 @@
+# Saved model checkpoints (large files)
+nsmc-kcbert/
+*.safetensors
+*.bin
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
