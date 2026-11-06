@@ -11,6 +11,7 @@
 |---|---|
 | [`nsmc_kcbert_classification.ipynb`](nsmc_kcbert_classification.ipynb) | 전체 파이프라인과 실행 결과 |
 | [`from_scratch/nsmc_from_scratch.ipynb`](from_scratch/nsmc_from_scratch.ipynb) | 참고 코드 없이 처음부터 다시 구현한 버전 ([설명](#처음부터-다시-구현하기-from_scratch)) |
+| [`notes/do_it_nlp_summary.md`](notes/do_it_nlp_summary.md) | 교재 1~4장 개념 정리 (토큰화, 셀프 어텐션, GPT와 BERT, 문서 분류 모델 구조) |
 
 ## 결과
 
